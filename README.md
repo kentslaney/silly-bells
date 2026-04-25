@@ -4,3 +4,5 @@
 Open app-related issues in this repo.
 
 [Teaser trailer](https://www.youtube.com/shorts/uLIwIvTh-34)
+
+[OSS detection](https://github.com/kentslaney/sphere-detector)
